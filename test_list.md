@@ -1,5 +1,5 @@
 # To-do
-- [] google voice python script
+- [_] google voice python script
 - [x] android alexis python script
 - [ ] conect ot drone and run flight drone-kit python script
 
